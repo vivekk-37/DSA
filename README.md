@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vivekk-37/DSA/tree/master/0001-two-sum) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/vivekk-37/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vivekk-37/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
